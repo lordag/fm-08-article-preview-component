@@ -7,9 +7,6 @@
     --light-grayish-blue: hsl(210, 46%, 95%);
 }
 
-*{
-    box-sizing: border-box;
-}
 
 html{
     font-size: 13px;
